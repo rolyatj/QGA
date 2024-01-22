@@ -1,0 +1,1 @@
+# Detailed models for Django backend

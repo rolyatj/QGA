@@ -1,0 +1,1 @@
+// Placeholder for Shot_tracker component

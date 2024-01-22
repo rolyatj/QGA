@@ -1,0 +1,1 @@
+// Detailed React component for Shot Tracker

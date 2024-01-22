@@ -1,0 +1,1 @@
+# Detailed URL routing for Django backend
