@@ -1,0 +1,1 @@
+# Detailed serializers for Django backend

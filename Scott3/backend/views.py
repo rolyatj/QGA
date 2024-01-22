@@ -1,0 +1,1 @@
+# Detailed views for Django backend
