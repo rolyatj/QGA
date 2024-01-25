@@ -140,9 +140,3 @@ Next Steps
 	•	Comprehensive Integration Testing: Ensure seamless operation across all platforms and features.
 	•	Deployment and CI/CD Setup: Prepare for launch with a solid deployment strategy.
 
-WhyGolf Integration
-
-Elevate your training with WhyGolf’s premium golfing gear:
-
-	•	WhyGolf Alignment Discs: Perfect your swing with precision.
-	•	WhyGolf ArmAlarm: Enhance your arm structure for a consistent swing.
